@@ -44,6 +44,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="googlemap.html" />
     <Content Include="MSXRMTOOLS.Xrm.Page.2016.js" />
     <Content Include="test.js" />
   </ItemGroup>
