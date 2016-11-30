@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginBase", "PluginBase\Pl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomWorkflowActivityBase", "CustomWorkflowActivityBase\CustomWorkflowActivityBase.csproj", "{7D0754C3-B423-4A69-B9C4-2A776419E627}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebResources", "WebResources\WebResources.csproj", "{8EB547DD-D35C-4C1F-9AB7-F019C0E5D9D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{7D0754C3-B423-4A69-B9C4-2A776419E627}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D0754C3-B423-4A69-B9C4-2A776419E627}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D0754C3-B423-4A69-B9C4-2A776419E627}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EB547DD-D35C-4C1F-9AB7-F019C0E5D9D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EB547DD-D35C-4C1F-9AB7-F019C0E5D9D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EB547DD-D35C-4C1F-9AB7-F019C0E5D9D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EB547DD-D35C-4C1F-9AB7-F019C0E5D9D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
